@@ -1,5 +1,6 @@
-# Spotify-end-to-end-data-engineering
-A guided project where I've built an ETL pipeline using the Spotify API on AWS. The pipeline will retrieve data from Spotify API, transform it to desirable formats, &amp; load it onto AWS data store.
+# Spotify End-to-End Data Engineering
+
+### Description:
 
 Implemented complete Data Pipeline Data Engineering Project using Spotify:
 - Integrated with Spotify API and extracting Data.
@@ -12,5 +13,6 @@ Implemented complete Data Pipeline Data Engineering Project using Spotify:
 
 
 
-Guided project by Darshil Parmar (@darshilparmar)
-This was a capstone project part of the 'Python for Data Engineering' course on DataVidya.
+##### Guided project by Darshil Parmar (@darshilparmar)
+
+##### This was a capstone project part of the 'Python for Data Engineering' course on DataVidya.
